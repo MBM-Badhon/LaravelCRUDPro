@@ -43,4 +43,7 @@ A simple yet powerful **Laravel 10 CRUD application** with full Create, Read, Up
 ## **Contributing**  
 Feel free to fork, modify, and create pull requests!  
 
-
+By,
+Masrafi Bin Mobarak Badhon
+Roll: 2003117
+For EDGE Program Final Project
