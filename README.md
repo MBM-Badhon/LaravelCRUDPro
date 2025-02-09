@@ -1,9 +1,5 @@
 # LaravelCRUDPro
 
-Here’s a **GitHub description** for your Laravel project:  
-
----
-
 # **LaravelCRUDPro**  
 A simple yet powerful **Laravel 10 CRUD application** with full Create, Read, Update, and Delete functionality. This project is designed for beginners and professionals looking for a clean and scalable CRUD structure.  
 
